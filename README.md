@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ProblemAdminService**
+- 🔭 I’m currently working on **Problem Admin Service [Microservice]**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 Ex-SDE Intern **Papercycle.in**
 
 - 💬 Ask me about **Backend Concepts'**
 
